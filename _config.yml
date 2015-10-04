@@ -1,7 +1,7 @@
 # Site settings
 
 title: DMREF Project
-header-img: img/home-bg.jpg
+header-img: img/bg.jpg
 email: your-email@yourdomain.com
 description: "Designing Materials to Revolutionize and Engineer our Future (DMREF) is the primary program by which NSF participates in the Materials Genome Initiative (MGI) for Global Competitiveness."
 baseurl: "/DMREF-Project"
