@@ -1,9 +1,9 @@
 # Site settings
 
-title: Project Pages
+title: DMREF Project
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Designing Materials to Revolutionize and Engineer our Future (DMREF) is the primary program by which NSF participates in the Materials Genome Initiative (MGI) for Global Competitiveness."
 baseurl: "/DMREF-Project"
 url: "http://mined.gatech.edu"
 github_username:  mined-gatech
