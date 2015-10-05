@@ -19,7 +19,7 @@ Nanoindentation Test
 At least two indents were made close to each other at each of the three locations as shown in the schematic (figure 1) with 100 µm spherical diamond tip. The load displacement curves were extracted and converted to Indentation Stress Strain (ISS) curves using the [protocols](http://www.sciencedirect.com/science/article/pii/S1359645408002413) developed previously by our research group. The ISS curves are shown in the figure 2. The data shows that the two indents on each location are consistent with each other. It also displayed the successful implementation of the experimental protocols that were developed at GT.
 
 ![Sample Schematic](/DMREF-Project/img/NI-550C-100um/Sample-Schematic.png "Sample-Schematic")
-figure 1* Sample Schematic
+*figure 1* Sample Schematic
 
 ![ISS-550C-100um](/DMREF-Project/img/NI-550C-100um/ISS-550C-100um.png "ISS-550C-100um")
 *figure 2* Indentation Stress-Strain Curves from three distinct locations
