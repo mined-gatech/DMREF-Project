@@ -1,9 +1,9 @@
 # Site settings
 
-title: AM enabled Ti Alloy Design
+title: CADNAAM project
 header-img: img/bg.jpg
 email: your-email@yourdomain.com
-description: "This project seeks to demonstrate a highly innovative strategy culminating in the design of a new titanium alloy that will exploit the unusual characteristics of additive manufacturing."
+description: "Collaboration to Accelerate the Discovery of New Alloys for Additive Manufacturing (CADNAAM) project seeks to demonstrate a highly innovative strategy culminating in the design of a new titanium alloy that will exploit the unusual characteristics of additive manufacturing."
 baseurl: "/DMREF-Project"
 url: "http://mined.gatech.edu"
 github_username:  mined-gatech
