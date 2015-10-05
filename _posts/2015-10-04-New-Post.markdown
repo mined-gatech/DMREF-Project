@@ -3,7 +3,7 @@ layout:     post
 title:      Showcase of a Post
 date:      2015-10-04 23:35
 author:    Xinyi Gong
-tags: 		result
+tags: 		
 ---
 <!-- Start Writing Below in Markdown -->
 
